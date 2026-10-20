@@ -1,0 +1,3224 @@
+{
+  "updated": "2026-10-19T01:55:27.337356",
+  "regular": {
+    "weekday": {
+      "seiseki_to_campus": [
+        {
+          "time": "07:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:25",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "15:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ],
+      "nagayama_to_campus": [
+        {
+          "time": "07:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:20",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:20",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:55",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:55",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ],
+      "nagayama_from_campus": [
+        {
+          "time": "09:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:20",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "15:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "15:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "17:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "18:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "18:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "18:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ],
+      "seiseki_from_campus": [
+        {
+          "time": "09:55",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:20",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "13:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:45",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "17:15",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "17:50",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "18:05",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "18:40",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "19:40",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": true
+        }
+      ]
+    },
+    "saturday": {
+      "seiseki_to_campus": [
+        {
+          "time": "07:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:25",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:55",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "09:25",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "09:55",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:25",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:55",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:55",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:50",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:20",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:25",
+          "via_school": true,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ],
+      "nagayama_to_campus": [
+        {
+          "time": "07:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:15",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "07:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "08:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "09:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "09:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "10:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:10",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:05",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "13:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "14:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ],
+      "seiseki_from_campus": [
+        {
+          "time": "09:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "10:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "10:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "11:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:55",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "13:25",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "14:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "14:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "15:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "15:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "16:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "16:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "17:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "17:30",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "18:00",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        },
+        {
+          "time": "18:40",
+          "via_school": false,
+          "via_seiseki": true,
+          "ev": false
+        }
+      ],
+      "nagayama_from_campus": [
+        {
+          "time": "11:00",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:40",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "11:55",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:25",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:30",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:35",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "12:50",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        },
+        {
+          "time": "16:45",
+          "via_school": false,
+          "via_seiseki": false,
+          "ev": false
+        }
+      ]
+    }
+  },
+  "temporaries": [
+    {
+      "date": "2026-10-15",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "07:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "09:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "18:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:20",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:45",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:15",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:50",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "19:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": true
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:50",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:20",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:50",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "07:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "09:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "10:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "11:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "11:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:25",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:55",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "11:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:50",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "09:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "17:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "18:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "09:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:45",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:15",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:50",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "19:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": true
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:40",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "07:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "09:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "10:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "11:15",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:10",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "13:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "08:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:30",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:00",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "08:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "11:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "11:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "12:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:10",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:55",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:50",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:20",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "07:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "09:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "09:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "10:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "11:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:55",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "14:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "15:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:30",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "11:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "table": {
+        "seiseki_to_campus": [
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:45",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:05",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:25",
+            "via_school": true,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_to_campus": [
+          {
+            "time": "07:10",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "07:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "08:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:20",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "13:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "nagayama_from_campus": [
+          {
+            "time": "09:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "12:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "15:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:15",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:30",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "17:45",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "18:00",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "18:35",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          }
+        ],
+        "seiseki_from_campus": [
+          {
+            "time": "09:55",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "10:40",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "11:35",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:00",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "13:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "14:50",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:05",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:25",
+            "via_school": false,
+            "via_seiseki": false,
+            "ev": false
+          },
+          {
+            "time": "16:45",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:15",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "17:50",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:05",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          },
+          {
+            "time": "18:40",
+            "via_school": false,
+            "via_seiseki": true,
+            "ev": false
+          }
+        ]
+      }
+    }
+  ]
+}
